@@ -15,7 +15,7 @@ N = 15;
 L = 10;
 
 
-% Showing the x[n] signal
+% Showing the x[n] input signal
 n=0:1:N-1;
 x=(1/2).^n;
 figure;
